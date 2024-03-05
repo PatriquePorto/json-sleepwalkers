@@ -7,11 +7,11 @@
                 "month": "Fev"
             },
             "location": {
-                "city": "Santo André",
-                "state": "São Paulo",
-                "address": "Santo Rock Bar"
+                "city": "Data e local",
+                "state": "A confirmar!",
+                "address": "A confirmar!"
             },
-            "priceRange": "15~30R$"
+            "priceRange": "0R$"
         },
         {
             "id": 2,
