@@ -20,11 +20,11 @@
                 "month": "Mar"
             },
             "location": {
-                "city": "Rio de Janeiro",
-                "state": "Rio de Janeiro",
-                "address": "Espaço Hall"
+                "city": "Data e local",
+                "state": "A confirmar!",
+                "address": "A confirmar!"
             },
-            "priceRange": "30-50R$"
+            "priceRange": "0R$"
         },
         {
             "id": 3,
@@ -33,11 +33,11 @@
                 "month": "Mai"
             },
             "location": {
-                "city": "São Paulo",
-                "state": "São Paulo",
-                "address": "Hangar 110"
+                "city": "Data e local",
+                "state": "A confirmar!",
+                "address": "A confirmar!"
             },
-            "priceRange": "20-30R$"
+            "priceRange": "0R$"
         },
         {
             "id": 4,
@@ -46,11 +46,11 @@
                 "month": "Jul"
             },
             "location": {
-                "city": "São Jose dos Campos",
-                "state": "São Paulo",
-                "address": "Rock Garden"
+                "city": "Data e local",
+                "state": "A confirmar!",
+                "address": "A confirmar!"
             },
-            "priceRange": "25-35R$"
+            "priceRange": "0R$"
         }
           
         
