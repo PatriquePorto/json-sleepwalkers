@@ -59,7 +59,7 @@
         {
             "id": 1,
             "img": "/images/albums/hypnos.png",
-            "name": "album 1",
+            "name": "Hypnos - 2019",
             "tracks": [
                 {
                     "name": "Hypnos",
@@ -118,8 +118,12 @@
         {
             "id": 2,
             "img": "/images/albums/the-fallen-sun.jpeg",
-            "name": "album 2",
+            "name": "The Fallen Sun - 2023",
             "tracks": [
+                {
+                    "name": "The Fallen Sun",
+                    "src": "assets/freedom.mp3"
+                },
                 {
                     "name": "The Fallen Sun",
                     "src": "assets/freedom.mp3"
